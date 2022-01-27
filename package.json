@@ -1,0 +1,14 @@
+{
+  "name": "reason",
+  "version": "1.0.0",
+  "description": "Reason example starter React project",
+  "keywords": ["reason", "react", "starter", "reasonml"],
+  "main": "src/Index.re",
+  "dependencies": {
+    "react": "16.12.0",
+    "react-dom": "^16.12.0",
+    "reason-react": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
